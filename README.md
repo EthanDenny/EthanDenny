@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my undergrad at MUNL
+- 🌱 I’m currently learning C++
+- 💬 Ask me about: history! I love the past
+- 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
+- 😄 Pronouns: he/him
+
 <!--
 **EthanDenny/EthanDenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
