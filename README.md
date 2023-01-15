@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: C++
 - 💬 Ask me about: History! I love learning about the past
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
-- 📄: My resume: [ethandenny.github.io/resum](https://ethandenny.github.io/resume/)
+- 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
 - 😄 Pronouns: he/him
 
 <!--
