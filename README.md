@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my undergrad at MUNL
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on my undergrad at MUNL!
+- 🌱 I’m currently learning C++!
 - 💬 Ask me about: History! I love learning about the past
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 😄 Pronouns: he/him
