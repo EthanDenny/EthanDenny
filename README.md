@@ -1,4 +1,4 @@
-### Hi there, I'm Ethan 👋
+### Hi there, I'm Ethan! 👋
 
 - 🔭 I’m currently working on my undergrad at MUNL!
 - 🌱 I’m currently learning C++!
