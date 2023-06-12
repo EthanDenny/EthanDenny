@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: My undergrad at MUNL
 - 🌱 I’m currently learning: Rust 🦀
-- 💬 Ask me about: History! I love learning about the past
+- 💬 Ask me about: Building programming languages!
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
 - 😄 Pronouns: he/him
