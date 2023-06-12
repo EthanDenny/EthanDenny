@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan! 👋
 
 - 🔭 I’m currently working on: My undergrad at MUNL
-- 🌱 I’m currently learning: Rust🦀
+- 🌱 I’m currently learning: Rust 🦀
 - 💬 Ask me about: History! I love learning about the past
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
