@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: My undergrad at MUNL
+- 🔭 I’m currently working on: My undergrad at MUN
 - 🌱 I’m currently learning: Rust 🦀
 - 💬 Ask me about: Building programming languages!
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
