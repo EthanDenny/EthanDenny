@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: Building a functional programming language
+- 🔭 I’m currently working on: [Flip](https://github.com/EthanDenny/flip) a functional programming language
 - 🌱 I’m currently learning: Rust 🦀
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
