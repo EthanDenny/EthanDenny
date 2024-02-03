@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on: My undergrad at MUN
 - 🌱 I’m currently learning: Rust 🦀
-- 📖 I’m currently reading: _The Stand_ by Stephen King
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
 - 😄 Pronouns: he/him
