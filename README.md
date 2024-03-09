@@ -1,11 +1,10 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: [Flip](https://github.com/EthanDenny/flip), a functional programming language
-- 🌱 I’m currently learning: Rust 🦀
+- 🔭 I’m currently working on: Dedicated applications for new holographic displays at [Avalon Holographics](https://www.avalonholographics.com/)
+- 🌱 I’m currently learning: Go 💨
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
-- 😄 Pronouns: he/him
-
+- 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDenny&layout=compact&langs_count=8&theme=transparent&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
