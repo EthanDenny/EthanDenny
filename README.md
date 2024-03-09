@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Go 💨
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
-- 
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDenny&layout=compact&langs_count=8&theme=transparent&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
