@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan! 👋
 
 - 🔭 I’m currently working on: [Holographic display software @ Avalon Holographics](https://www.avalonholographics.com/)
-- 🌱 I’m currently learning: Go 💨
+- 🌱 I’m currently learning: React ⚛️
 - 📫 How to reach me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄: My resume: [ethandenny.github.io/resume](https://ethandenny.github.io/resume/)
 
