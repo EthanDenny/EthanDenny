@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: [Holographic display software](https://novac3d.com) @ [Avalon Holographics](https://www.avalonholographics.com/)
+- 🔭 I’m currently working on: My undergrad @ [Memorial University](https://www.mun.ca/)
 - 🌱 I’m currently learning: How to be more productive
 - 🌐 My website: [ethandenny.dev](https://ethandenny.dev/)
 - 📫 Mail me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
