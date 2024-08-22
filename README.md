@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan! 👋
 
 - 🔭 I’m currently working on: My undergrad @ [Memorial University](https://www.mun.ca/)
-- 🌱 I’m currently learning: How to be more productive
+- 🌱 I’m currently learning: More web dev! ⚛️
 - 🌐 My website: [ethandenny.dev](https://ethandenny.dev/)
 - 📫 Mail me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄 My resume: [ethandenny.dev/resume](https://ethandenny.dev./resume/)
