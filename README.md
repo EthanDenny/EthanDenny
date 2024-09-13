@@ -1,10 +1,10 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: My undergrad @ [Memorial University](https://www.mun.ca/)
+- 🔭 I’m currently working on: Physical simulations using an augmented reality sandbox for my undergrad thesis @ [Memorial University](https://www.mun.ca/)
 - 🌱 I’m currently learning: More web dev! ⚛️
 - 🌐 My website: [ethandenny.dev](https://ethandenny.dev/)
 - 📫 Mail me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
-- 📄 My resume: [ethandenny.dev/resume](https://ethandenny.dev./resume/)
+- 📄 My resume: [ethandenny.dev/resume](https://ethandenny.dev/resume/)
 
 ---
 
