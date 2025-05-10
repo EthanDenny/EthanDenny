@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan! 👋
 
-- 🔭 I’m currently working on: Physical simulations using an augmented reality sandbox for my undergrad thesis @ [Memorial University](https://www.mun.ca/)
+- 🔭 I’m currently working on: AI-solutions for lawyers @ [Spellbook](https://www.spellbook.legal/)
 - 🌐 My website: [ethandenny.dev](https://ethandenny.dev/)
 - 📫 Mail me: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - 📄 My resume: [ethandenny.dev/resume](https://ethandenny.dev/resume/)
