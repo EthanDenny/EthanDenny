@@ -1,7 +1,3 @@
-software dev @ [Spellbook](https://spellbook.com)
-
-docx wizard 🧙‍♂️
-
-canadian 🇨🇦
+dev @ [Spellbook](https://spellbook.com)
 
 [ethandenny.dev](https://ethandenny.dev/)
